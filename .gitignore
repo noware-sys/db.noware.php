@@ -1,3 +1,6 @@
+known_hosts
+
+# temporary
 doc/sys/
 doc/usr/abbr.txt
 doc/usr/cfg.txt
